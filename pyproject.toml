@@ -20,7 +20,7 @@ dependencies = [
     "selenium>=4.18.1",
     "docx2txt>=0.8",
     "docker>=7.1.0",
-    "embedchain>=0.1.114",
+    "embedchain>=0.1.123",
 ]
 readme = "README.md"
 
