@@ -5,7 +5,7 @@ description = "Set of tools for the crewAI framework"
 authors = [
     { name = "João Moura", email = "joaomdmoura@mgail.com" },
 ]
-requires-python = ">=3.10,<=3.13"
+requires-python = ">=3.11.10,<=3.13.0"
 dependencies = [
     "pydantic>=2.6.1",
     "langchain>=0.3.1",
